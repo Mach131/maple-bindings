@@ -1,8 +1,9 @@
 # maple-bindings
 An input display setup for Maplestory
 
-Original program from https://www.reddit.com/r/Maplestory/comments/q50xdr/streamers_i_made_a_keyboard_overlay_for_skills/ , though link seems to have been deleted
-I (Serp/Mach) have made a few of my own modifications:
+Original program from https://www.reddit.com/r/Maplestory/comments/q50xdr/streamers_i_made_a_keyboard_overlay_for_skills/ , though the link seems to have been deleted and the account suspended. If anyone has any more information on the original author, please let me know (Serp on discord).
+
+I have made a few of my own modifications:
 
 - Keys light up when held instead of getting spammed
 - The arrows.png file has been modified to have the color indicators on the left, so it's easier to read when they overlap
