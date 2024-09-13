@@ -13,13 +13,13 @@ I (Serp/Mach) have made a few of my own modifications:
 - - I added a way to load and switch between multiple bindings at once to support Beast Tamer, but they're ded so probably not relevant
 - You can press Ctrl+Shift+F3 to "freeze" or "unfreeze" the reading, so you don't accidentally leak stuff typing while recording
 
-(Instructions from original author)
+--------------------------
+*(Instructions from original author)*
 
 This code is provided as is. Use at your own risk.
 
 ## How to use with OBS Studio
---------------------------
-0. As with all keyboard overlays, BE CAREFUL not to type any sensitive information while MOverlay is running.
+0. As with all keyboard overlays, BE CAREFUL not to type any sensitive information while MOverlay is running. *(MODIFICATION NOTE: Remember to use the "freeze" command if you need to)*
 ### Set Up
 1. Download this file and save it as moverlay.py. Make sure you have "file name extensions" turned on in Windows.
 2. Take a screenshot of your key bindings in game and save it AS A PNG FILE. Rename it to bindings.png and save it to the same folder as moverlay.py.
